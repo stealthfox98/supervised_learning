@@ -6,7 +6,7 @@ This project aims to create a process flow that...
 3. Creation, training and testing of models
 4. Performance metrics for model comparison
 
-with which the user can decide which model fits best for non-payment prediction.
+with which the user can choose the best fit for non-payment prediction.
 
 ## Potential of machine learning usage in the financial sector
 
