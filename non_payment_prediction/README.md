@@ -1,12 +1,10 @@
 # Non-payment prediction model
 
-This project aims to create a process flow that...
+This project aims to create a process flow for non-payment prediction that...
 1. Cleans the input data
 2. Builds a new dataset with useful features
-3. Creation, training and testing of models
-4. Performance metrics for model comparison
-
-with which the user can choose the best fit for non-payment prediction.
+3. Creates, trains and tests models
+4. Compares performance metrics that helps in the choosing of the best model for the job 
 
 ## Potential of machine learning usage in the financial sector
 
